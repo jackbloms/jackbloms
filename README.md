@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **My bootcamp experience!**
+- 💬 Ask me about **my bootcamp experience!**
 
 - 📫 How to reach me **jackblomstrand23@gmail.com**
 
-- ⚡ Fun fact **sports and nature are two of my biggest passions**
+- ⚡ Fun fact: **sports and nature are two of my biggest passions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
